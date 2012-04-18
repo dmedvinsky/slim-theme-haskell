@@ -1,0 +1,46 @@
+# Color, font, position for the messages (ie: shutting down).
+msg_color               #FFFFFF
+msg_font                Sans:size=10:bold:dpi=96
+msg_x                   50%
+msg_y                   70%
+
+# Style of background: 'stretch', 'tile', 'center', 'color'.
+background_style        stretch
+background_color        #222222
+
+# Horizonatal and vertical position for the panel.
+input_panel_x           50%
+input_panel_y           70%
+
+# Input controls horizontal and vertical positions.
+input_name_x            128
+input_name_y            32
+# force single input box (gdm style)
+input_pass_x            -1
+input_pass_y            -1
+
+# Input controls font and color.
+input_font              Sans:size=12:bold:dpi=96
+input_fgcolor           #222222
+
+# Welcome message position.
+# welcome_x               50%
+# welcome_y               38
+
+# Font and color for the welcome message.
+# welcome_font            Sans:size=16:bold:slant=italic
+# welcome_color           #ffffff
+
+# 'Enter username' font and foreground/background color.
+username_font           Sans:size=10:bold:dpi=96
+username_color          #ffffff
+
+# 'Enter username' and 'Enter password' position.
+username_x              30
+username_y              30
+password_x              30
+password_y              30
+
+# The message to be displayed.
+username_msg            Username
+password_msg            Password
