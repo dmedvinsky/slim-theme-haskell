@@ -13,4 +13,4 @@ For attribution, refer to the AUTHORS file.
 
 ## Preview
 
-Naked woman pic will be here.
+![Cool picture of this awesome theme](https://github.com/dmedvinsky/slim-theme-haskell/raw/master/preview.png)
